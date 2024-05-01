@@ -1,2 +1,2 @@
-class work { val a = 10
+class work {
 }
